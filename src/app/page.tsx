@@ -26,7 +26,7 @@ export default function Home() {
 
       {/* Facebook Logo */}
       <a
-        href="https://facebook.com/YOUR_PROFILE"
+        href="https://www.facebook.com/Noman4952/"
         target="_blank"
         rel="noopener noreferrer"
       >
