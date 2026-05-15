@@ -30,17 +30,14 @@ export default function Home() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg"
-          alt="Facebook"
-          width={80}
-          height={80}
-          style={{
-            cursor: "pointer",
-            transition: "0.3s",
-          }}
-        />
-      </a>
-    </main>
-  );
-}
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg"
+  alt="Facebook"
+  width={80}
+  height={80}
+  style={{
+    cursor: "pointer",
+    transition: "0.3s",
+    borderRadius: "50%",
+  }}
+/>
