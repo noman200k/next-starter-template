@@ -19,10 +19,9 @@ export default function Home() {
           letterSpacing: "5px",
         }}
       >
-        NEXT<span style={{ fontSize: "30px" }}>.JS</span>
+       Noman Bhaii<span style={{ fontSize: "30px" }}>.</span>
       </h1>
 
-      <p>Click the Facebook logo below 👇</p>
 
       {/* Facebook Logo */}
       <a
